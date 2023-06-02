@@ -69,7 +69,7 @@ No need to install git in linux or termux
 * `sudo bash setup.sh`
 
 
-## **[Buy Premium](https:t.me/ItzMe_Anon) InstaReport Tool or [contact](https://t.me/ItzMe_Anon) me For The Orignal Banning Tool, It Also Can Ban Verified Pages Accounts**
+## **[Buy Premium](https://t.me/ItzMe_Anon) InstaReport Tool or [contact](https://t.me/ItzMe_Anon) me For The Orignal Banning Tool, It Also Can Ban Verified Pages Accounts**
 
 
 # DONATION
