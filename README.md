@@ -3,7 +3,7 @@ This is a script which reports targeted instagram accounts and instagram videos 
 Version : 2.0.1
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# NOT MAINTAINING ANYMORE... I WILL UPLOAD SOURCE CODE AFTER 100 STARS. 
+## **[Buy Premium](https://t.me/ItzMe_Anon) InstaReport Tool or [contact](https://t.me/ItzMe_Anon) me For The Orignal Banning Tool, It Also Can Ban Verified Pages Accounts**
 
 ### Features
 This is a script which reports targeted instagram account or an instagram video. 
